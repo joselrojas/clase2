@@ -7,5 +7,4 @@ algoritmo prueba
 	leer nombre
 	mostrar "mi nombre es " nombre
 
-
 fin algoritmo
